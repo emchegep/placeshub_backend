@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USER": "elvis",
+    "DB_PASSWORD": "elvis123",
+    "DB_NAME": "places_hub",
+    "JWT_KEY": "supersecret_dont_share"
+  }
+}

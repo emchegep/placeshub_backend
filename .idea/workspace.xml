@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="54ffea69-b61d-4989-8144-ce40a917ab18" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/images/04e65840-a103-11ea-b0f4-435cf8107097.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/images/14aba640-a248-11ea-9fb3-29e8eacc438b.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/images/1ead8730-a117-11ea-8a6b-230b3c7d9ca8.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/images/55d15450-a1a1-11ea-af4d-55e1689565da.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/images/75dddeb0-a103-11ea-b0f4-435cf8107097.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/images/84e33db0-a1bc-11ea-84a4-4708fa341ffa.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/images/983f35d0-a126-11ea-95f9-594e27f678f7.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/images/a7ea3890-a1bc-11ea-84a4-4708fa341ffa.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/images/f407a650-a102-11ea-b0f4-435cf8107097.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uploads/images/ff7d8080-a1bc-11ea-84a4-4708fa341ffa.jpeg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bwKYbanDEcdtgn1SWFbhMLUyJp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../FRONTEND" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="54ffea69-b61d-4989-8144-ce40a917ab18" name="Default Changelist" comment="" />
+      <created>1589537764381</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589537764381</updated>
+      <workItem from="1589537765804" duration="18428000" />
+      <workItem from="1589737898653" duration="28104000" />
+      <workItem from="1589992681641" duration="6251000" />
+      <workItem from="1590069362062" duration="2231000" />
+      <workItem from="1590077478473" duration="1904000" />
+      <workItem from="1590086405120" duration="6172000" />
+      <workItem from="1590262142262" duration="4327000" />
+      <workItem from="1590410401084" duration="1515000" />
+      <workItem from="1590417669583" duration="7327000" />
+      <workItem from="1590506125421" duration="18700000" />
+      <workItem from="1590612380223" duration="614000" />
+      <workItem from="1590678487317" duration="13722000" />
+      <workItem from="1590752545978" duration="10874000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/controllers/users-controllers.js</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/places-routes.js</url>
+          <line>23</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
